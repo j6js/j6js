@@ -1,16 +1,42 @@
-## Hi there 👋
+![👋 Kia ora (Hello), my name is Jackson.](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-is-collaborative-coding--1.png)
 
-<!--
-**Jackson5546/jackson5546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=jackson5546&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Kia ora (Hello), my name is Jackson.
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://www.reddit.com/user/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@jaxkly" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://github.com/Jackson5546" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+
+ **<h3 align="center">A learning fullstack developer, still in Year 8 (7th Grade in freedom units), who is basically the IT guy at my school, because we don't have one.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **Building my first code project, my portfolio.**
+- 🌱 I'm currently learning: **Most common programming languages.**
+- 💬 Ask me about: **JS, TS, Tailwind, Next.JS, HTML/CSS, Python**
+- ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling electronics than playing with toys.**
+- 📂 Portfolio: **is still in progress**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jackson5546&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&title_color=599191" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=jackson5546&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&ring=599191&sideLabels=599191&currStreakLabel=599191&fire=bb2255" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackson5546&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
