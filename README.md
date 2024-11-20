@@ -1,6 +1,6 @@
 ![👋 Kia ora (Hello), my name is Jackson.](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-is-collaborative-coding--1.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=jackson5546&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=jxaq&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.reddit.com/user/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@jaxkly" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://github.com/Jackson5546" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+<p align="center"><a href="https://www.reddit.com/user/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@jaxkly" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://github.com/jxaq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
  **<h3 align="center">A learning fullstack developer, still in Year 8 (7th Grade in freedom units), who is basically the IT guy at my school, because we don't have one.</h3>**
 
@@ -32,11 +32,11 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jackson5546&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&title_color=599191" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=jackson5546&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&ring=599191&sideLabels=599191&currStreakLabel=599191&fire=bb2255" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jxaq&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&title_color=599191" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=jxaq&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&ring=599191&sideLabels=599191&currStreakLabel=599191&fire=bb2255" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackson5546&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxaq&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
