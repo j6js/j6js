@@ -13,17 +13,17 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.reddit.com/user/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@jaxkly" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://github.com/jxaq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+<p align="center"><a href="https://www.reddit.com/user/jxaq2" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@jaxkly" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://github.com/jxaq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
- **<h3 align="center">A learning fullstack developer, still in Year 8 (7th Grade in freedom units), who is basically the IT guy at my school, because we don't have one.</h3>**
+ **<h3 align="center">A learning full-stack developer, almost Year 9 (8th Grade in freedom units) in terms of age, but academically, I am close to year 11 (10th grade). I have a passion for technology, and how things work.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Building my first code project, my portfolio.**
-- 🌱 I'm currently learning: **Most common programming languages.**
-- 💬 Ask me about: **JS, TS, Tailwind, Next.JS, HTML/CSS, Python**
-- ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling electronics than playing with toys.**
-- 📂 Portfolio: **is still in progress**
+- 💼 I'm currently working on: **Progressing my knowledge in Node.js, Next.js, Tailwind CSS, and TypeScript**
+- 🌱 I'm currently learning: **JS, TS, Tailwind CSS, Node.js, Next.js**
+- 💬 Ask me about: **Any of the above, anything tech related, or political.**
+- ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling a vaccum, than I was playing with toys.**
+- 📂 Portfolio: **Is now ready! : [jaxk.cc](https://www.jaxk.cc/)**
 
  **<h3 align="left">Skills</h3>**
 
