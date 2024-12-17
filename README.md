@@ -40,3 +40,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxaq&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+<div style="color:#fff"><p>jxaq.64-b.it</p></div>
+
