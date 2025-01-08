@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **JavaScript**
 - 💬 Ask me about: **Any of the above, anything tech related, or political.**
 - ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling a vaccum, than I was playing with toys.**
-- 📂 Portfolio: **Is now ready! : [jaxk.cc](https://www.jaxk.cc/)**
+- 📂 Portfolio: **Is now ready! : [jax.is-a.dev](https://jax.is-a.dev/)**
 
  **<h3 align="left">Skills</h3>**
 
@@ -39,6 +39,3 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxaq&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
-<div style="color:#fff"><p>jxaq.64-b.it</p></div>
-
