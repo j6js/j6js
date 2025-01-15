@@ -30,8 +30,5 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jxaq&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&title_color=599191" alt="GitHub stats Card" />
-</p>
-
-<p align="right">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxaq&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
