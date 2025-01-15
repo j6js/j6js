@@ -12,9 +12,6 @@
   </ul>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.reddit.com/user/jxaq2" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.tiktok.com/@jaxkly" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/JaxK5546" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://github.com/jxaq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a></p>
-
  **<h3 align="center">A learning full-stack developer, almost Year 9 (8th Grade in freedom units). I have a passion for technology, and how things work. AuDHD</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
