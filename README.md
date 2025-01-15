@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Kia ora (Hello), my name is Jackson.
+        👋 Kia ora, I'm Jackson.
       </h1>
     </summary>
   </ul>
