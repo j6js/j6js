@@ -20,7 +20,7 @@
 - 🌱 I'm currently learning: **JavaScript**
 - 💬 Ask me about: **Any of the above, anything tech related, or political.**
 - ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling a vaccum, than I was playing with toys.**
-- 📂 Portfolio: **Is now ready! : [jax.is-a.dev](https://jax.is-a.dev/)**
+- 📂 Portfolio: **Is now ready! : [j6js.com](https://j6js.com)**
 
  **<h3 align="left">Skills</h3>**
 
