@@ -16,7 +16,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Data Structures & Algorithms @ freeCodeCamp**
+- 💼 I'm currently working on: **Core CS @ [OSSU](https://github.com/ossu)**
 - 🌱 I'm currently learning: **JavaScript**
 - 💬 Ask me about: **Any of the above, anything tech related, or political.**
 - ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling a vaccum, than I was playing with toys.**
