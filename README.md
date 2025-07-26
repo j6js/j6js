@@ -12,7 +12,7 @@
   </ul>
 </div>
 
- **<h3 align="center">A learning full-stack developer, in Year 9 (8th Grade in freedom units). I have a passion for technology, and how things work. AuDHD</h3>**
+ **<h3 align="center">A learning full-stack developer, in Year 9 in New Zealand. I have a passion for technology, and how things work. </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
