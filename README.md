@@ -6,13 +6,13 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Kia ora, I'm Jackson.
+        👋 Kia ora, I'm j6js
       </h1>
     </summary>
   </ul>
 </div>
 
- **<h3 align="center">A learning full-stack developer, in Year 9 in New Zealand. I have a passion for technology, and how things work. </h3>**
+ **<h3 align="center">A learning developer, in New Zealand. I have a passion for technology, and how things work. </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
