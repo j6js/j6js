@@ -1,34 +1,33 @@
-![👋 Kia ora (Hello), my name is Jackson.](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-is-collaborative-coding--1.png)
+# Hi 👋, I'm Jackson
 
-![Profile views](https://komarev.com/ghpvc/?username=j6js&label=Profile%20views&color=0e75b6&style=flat)
+### A learning developer, in high school, from Aotearoa/New Zealand.
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Kia ora, I'm j6js
-      </h1>
-    </summary>
-  </ul>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j6js&label=Profile views&color=0e75b6&style=flat" alt="j6js" /> </p>
 
- **<h3 align="center">A learning developer, in New Zealand. I have a passion for technology, and how things work. </h3>**
+<p align="left"> <a href="https://twitter.com/_j6js" target="blank"><img src="https://img.shields.io/twitter/follow/_j6js?logo=twitter&style=for-the-badge" alt="_j6js" /></a> </p>
 
-**<h3 align="left">Rapid Fire</h3>**
+- 🔭 I'm currently working on **a refreshed Next.js website for a business.**
 
-- 💼 I'm currently working on: **Core CS @ [OSSU](https://github.com/ossu)**
-- 🌱 I'm currently learning: **JavaScript**
-- 💬 Ask me about: **Any of the above, anything tech related, or political.**
-- ⚡ Fun fact: **When I was 2 years old, I was more interested in disassembling a vaccum, than I was playing with toys.**
-- 📂 Portfolio: **Is now ready! : [j6js.com](https://j6js.com)**
+- 🌱 I'm currently learning **TypeScript & Node.js**
 
- **<h3 align="left">Skills</h3>**
+- 💬 Ask me about **Cryptography, DNS (root of all problems), and Next.js and TypeScript.**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3" style="margin-right: 4px"></div>
+- 📫 How to reach me **j6js+github@outlook.com**
 
- **<h3 align="left">GitHub Stats</h3>**
+- 👨‍💻 All of my projects are available at **[https://j6js.com](https://j6js.com)**
 
+- 📄 Know about my experiences **[https://example.com](https://example.com)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=j6js&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&title_color=599191" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=j6js&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<a href="https://github.com/j6js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="j6js" height="30" width="40" /></a>
+<a href="https://twitter.com/_j6js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_j6js" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j6js&show_icons=true&locale=en&layout=compact" alt="j6js" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j6js&show_icons=true&locale=en" alt="j6js" /></p>
+
