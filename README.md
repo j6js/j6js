@@ -1,16 +1,13 @@
-# Hi 👋, I'm Jackson
+# Kia ora! 👋 I'm Jackson
 
 ### A learning developer, in high school, from Aotearoa/New Zealand.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j6js&label=Profile views&color=0e75b6&style=flat" alt="j6js" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_j6js" target="blank"><img src="https://img.shields.io/twitter/follow/_j6js?logo=twitter&style=for-the-badge" alt="_j6js" /></a> </p>
 
 - 🔭 I'm currently working on **a refreshed Next.js website for a business.**
 
 - 🌱 I'm currently learning **TypeScript & Node.js**
 
-- 💬 Ask me about **Cryptography, DNS (root of all problems), and Next.js and TypeScript.**
+- 💬 Ask me about **Cryptography, DNS, and Next.js and TypeScript.**
 
 - 📫 How to reach me **j6js+github@outlook.com**
 
